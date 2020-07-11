@@ -72,7 +72,7 @@
     "onlyallowlistedsites": false,
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy":"https:\/\/edu101.net\/mobileprivacy\/mobile_privacy.html",
+    "privacypolicy": "https:\/\/edu101.net\/mobileprivacy\/mobile_privacy.html",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
@@ -87,7 +87,7 @@
     "forceColorScheme": "",
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "net.edu101.mobile",
+        "android": "net.edu101.edu101mobile",
         "ios": "id633359593",
         "windows": "edu101-desktop\/9p9bwvhdc8c8",
         "mac": "id1255924440",
